@@ -1,3 +1,5 @@
+# NOTE: This is not the original freeCodeCamp channel or code or guthub. its only a replication of the code shown in the "Build 25 React Projects" youtube video by freeCodeCamp, this repo is made only for educational purposes for people to get ready made code so they dont have to write it of their own and get started, recognition from freeCodeCamp would be appriciated.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
